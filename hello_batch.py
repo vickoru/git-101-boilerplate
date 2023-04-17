@@ -3,5 +3,5 @@ def helloBatch(number=None):
 
 
 if __name__ == '__main__':
-    mynumber = None
+    mynumber = 1218
     print(helloBatch(mynumber))
