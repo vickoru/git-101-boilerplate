@@ -1,4 +1,7 @@
 def helloBatch(number=None):
+    '''
+    Function
+    '''
     return f'\nWelcome batch #{number}\n'
 
 
