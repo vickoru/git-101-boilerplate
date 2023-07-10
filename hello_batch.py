@@ -6,5 +6,5 @@ def helloBatch(number=None):
 
 
 if __name__ == '__main__':
-    mynumber = 1218
+    mynumber = 1307
     print(helloBatch(mynumber))
